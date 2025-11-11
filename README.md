@@ -1,6 +1,6 @@
 # Documento de la Sonic Fest
 
-Este es el *repositorio oficial* de Sonic Fest.  
+Este es un *repositorio oficial* de Sonic Fest.  
 Aquí se publican *comunicados, aclaraciones oficiales, archivos públicos* y material verificado del proyecto.
 
 Si estás buscando información relacionada con:
